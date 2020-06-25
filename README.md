@@ -1,4 +1,4 @@
 # Flack - the online messaging service
 
-Programming with Python and JavaScript
-This application uses JavaScript to communicate on the server side
+<p>Programming with Python and JavaScript</p>
+<p>This application uses JavaScript to communicate on the server side</p>
