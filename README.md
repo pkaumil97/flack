@@ -1,3 +1,4 @@
-# Project 2
+# Flack - the online messaging service
 
-Web Programming with Python and JavaScript
+Programming with Python and JavaScript
+This application uses JavaScript to communicate on the server side
